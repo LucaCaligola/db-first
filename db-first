@@ -1,0 +1,21 @@
+Database: Auto usate
+
+
+id - intero - MEDIUMINT - PRIMARY KEY - AUTO INCREMENT - NOT NULL
+Marca - stringa - VARCHAR (80) - NOT NULL
+Modello - stringa - VARCHAR (80) - NOT NULL
+Chilometri - intero - INT - NOT NULL
+Anno di produzione - year - NOT NULL
+Data di immatricolazione - DATE - NOT NULL
+Carburante - stringa - VARCHAR (50) - NOT NULL
+Tipo di cambio - stringa - VARCHAR (50) - NOT NULL
+Colore - stringa - VARCHAR (50) - NOT NULL
+Potenza in CV - intero - MEDIUMINT - NOT NULL 
+Cilindrata - intero - MEDIUMINT - NOT NULL 
+Incidendata - booleano - BOOLEAN (TINYINT) - NULL
+Peso - intero - MEDIUMINT - NULL
+Sedili in Pelle - booleano - BOOLEAN (TINYINT) - NULL
+Numero marce - intero - TINYINT - NOT NULL 
+Descrizione - text - NULL
+
+
